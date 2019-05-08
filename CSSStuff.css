@@ -1,0 +1,30 @@
+body {
+	border: solid;
+	padding: 15px;
+	font-family: Tahoma;
+	color: darkred;
+	background: black;
+
+}
+
+body  {
+	border: dotted;
+	margin: 10px;
+	font-family: bahnschrift;
+	color: black;
+}
+
+body {
+	border: none;
+	margin: 10px;
+	font-family: bahnschrift condensed;
+	color: darkred ;
+}
+
+body {
+	border: solid;
+	margin: 10px;
+	font-family: bahnschrift semibold;
+	color: white;
+	background: black;
+}
