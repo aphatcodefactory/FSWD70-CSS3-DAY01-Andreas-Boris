@@ -1,0 +1,11 @@
+body {
+	text-align: center;
+}
+
+img, ul {
+	margin: auto;
+}
+
+ul li {
+	list-style: none;
+} 
