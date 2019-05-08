@@ -1,0 +1,19 @@
+body {
+	margin: 20px;
+	font-family: verdana;
+	color: #bbb;
+}
+
+#wrapper {
+	padding: 20px;
+	border: solid dotted 3px;
+	border-color: #900;
+}
+
+.body {
+	display: block;
+	position: relative;
+	width: 900px;
+	margin-top: 10px;
+	border: 1px solid #000;
+}

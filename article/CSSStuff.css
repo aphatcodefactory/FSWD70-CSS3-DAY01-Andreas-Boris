@@ -1,4 +1,4 @@
-body {
+header {
 	border: solid;
 	padding: 15px;
 	font-family: Tahoma;
@@ -7,22 +7,20 @@ body {
 
 }
 
-body  {
-	border: dotted;
+article  {
 	margin: 10px;
 	font-family: bahnschrift;
 	color: black;
 }
 
-body {
+footer span {
 	border: none;
 	margin: 10px;
 	font-family: bahnschrift condensed;
 	color: darkred ;
 }
 
-body {
-	border: solid;
+h1 {
 	margin: 10px;
 	font-family: bahnschrift semibold;
 	color: white;
