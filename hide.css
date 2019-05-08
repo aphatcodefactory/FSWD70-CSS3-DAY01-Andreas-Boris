@@ -3,18 +3,6 @@ div {
 	margin: 5px;	
 }
 
-#third > p {
-	display: none;
-}
-
-h1 {
-	display: none;
-}
-
-#second > * {
-	visibility: hidden;
-}
-
-#sixth > img {
-	display: inline;
+#first p {
+	font-size: large;
 }
