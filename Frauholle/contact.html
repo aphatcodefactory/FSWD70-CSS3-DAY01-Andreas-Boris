@@ -1,11 +1,42 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<style>
+    ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: #333;
+      position: fixed;
+      top: 0.5em;
+      width: auto;
+    }
+    h1 {margin-top:3em;}
+    li {
+      float: left;
+      border: 1px solid white;
+    }
+    li a {
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+    }
+
+  </style>
 	<link rel="stylesheet" type="text/css" href="Style.css">
 	<title>Contact us!</title>
 </head>
 <body>
-	<a href="Index.html">Home</a><br>
+	<span>
+    <ul> 
+    	<li><a href="Index.html">Home</a></li>
+      	<li><a href="page1.html">About Us</a></li>
+      	<li><a href="contact.html">Contact us</a></li>
+    </ul>
+    </span>
 	<form action="contact_form_submit" method="get" accept-charset="utf-8"></form>
 	First Name:<br>
 	<input type="text" name="firstname" placeholder="First Name"><br>
